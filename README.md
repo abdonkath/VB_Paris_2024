@@ -1,3 +1,4 @@
 # Paris 2024 Men's Volleyball Analysis
 
-This project evaluates individual player performance using statistics of each of their skills and detecting outliers to identify high and low-performing players relative to their roles. Also, player performance are aggregated to assess each team strengths.
+This project aggregate each player performace to access team strengths. Then, using those team strengths to predict who should win in the finals. Also, individual player performance are evaluated using statistics of each of their skills and detecting outliers to identify high and low-performing players relative to their roles
+
